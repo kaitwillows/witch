@@ -32,9 +32,15 @@ witch is a local music organizational tool designed to quickly and easily ensure
 idfk its the nixos of music, but hopefully easier and faster to use
 
 
-- for people who collect audio files, organizing them is often a tedious process, especially if you're picky like me and you want
+- for people who collect audio files, organizing them is often a tedious process, especially if you're picky like me and you want:
 	- a specific directory structure
 	- a specific file naming convention
 	- specific metadata conventions
-		- (maybe )
+		- (maybe you want the "genre" tag to function as playlists)
+        - maybe you want to ensure things like genres aren't there
+        - maybe you want artists, collab artists, and featuring artists to be denoted a certain way
+    - to know ALL of your metadata is actually correct
+    - to know your flac files are actually flacs
+    - to transcode your entire library into a specific format
+    - to know that changes to your preferences can easily be accommodated for by an automated system that does exactly what you want it to
 - witch uses both "source" files, 
