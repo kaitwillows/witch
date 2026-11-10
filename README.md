@@ -1,4 +1,9 @@
-# witch
+# music library organization but good
+
+hi this project is WIP so the readme is all over the place atm. i just want to learn rust and such yeah.
+
+
+
 
 this is a wip project that makes organizing a music library easier, though it may be biased towards my own needs.
 
