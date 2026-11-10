@@ -1,3 +1,5 @@
+test
+
 # witch
 
 this is a wip project that makes organizing a music library easier, though it may be biased towards my own needs.
